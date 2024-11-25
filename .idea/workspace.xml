@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dc156e5-3fb9-4f63-88e6-e46805dcaddb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Модуль 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3_1.py" afterDir="false" />
-    </list>
+    <list default="true" id="6dc156e5-3fb9-4f63-88e6-e46805dcaddb" name="Changes" comment="25.11.24  Постранство имен1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -43,6 +36,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -61,6 +60,28 @@
       <option name="presentableId" value="Default" />
       <updated>1732545699189</updated>
     </task>
+    <task id="LOCAL-00001" summary="25.11.24  Постранство имен">
+      <option name="closed" value="true" />
+      <created>1732548767151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732548767151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="25.11.24  Постранство имен1">
+      <option name="closed" value="true" />
+      <created>1732548835593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732548835593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="25.11.24  Постранство имен" />
+    <MESSAGE value="25.11.24  Постранство имен1" />
+    <option name="LAST_COMMIT_MESSAGE" value="25.11.24  Постранство имен1" />
   </component>
 </project>
