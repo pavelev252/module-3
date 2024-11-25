@@ -29,3 +29,4 @@ is_contains('cycle', ['recycling', 'cyclic'])
 is_contains('Urban', ['ban', 'BaNaN', 'urBAN'])
 is_contains('ARM', ['Arm', 'ARMOR', 'Roman'])
 print(calls)
+
